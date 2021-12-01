@@ -1,4 +1,5 @@
-- 👋 Oi, eu <strong>sou o Gabriel</strong>!
+- 👋 Oi, eu sou o Gabriel, <strong>bem-vindo ao meu portifólio</strong>!
+-  Aqui eu exponho meus projetos pessoais e estudos da minha jornada como desenvolvedor.
 - 📊 Eu gosto de interfaces e acredito que a experiência do usuário é a chave para uma boa aplicação 🏆!
 - Por isso, <strong>desenvolvimento Front-end é o que eu mais gosto de trabalhar 😍 </strong>! 
 - 💖 Interesse por desenvolvimento front-end, design, games e game-dev  
